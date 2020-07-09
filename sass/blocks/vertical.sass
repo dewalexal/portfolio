@@ -1,0 +1,39 @@
+// main: ./style.sass
+
+.vertical
+    width: 13% 
+
+    border-left: 1px solid white
+    border-right: 1px solid white   
+
+.vertical_content
+    margin: 0 auto
+
+.vertical_photo
+    position: relative
+    display: block
+    width: 100%
+
+    &:after
+        content: ''
+        width: 4px
+        height: 0%
+        background-color: $color-white
+        position: absolute
+        top: 70px
+        left: 196px
+        z-index: 1 
+
+    transition: border,width .2s linear
+    &:hover:after
+        height: 50% 
+
+.vertical_photo.active
+    &:after
+        height: 50%
+
+.vertical_img
+    margin: 30px 15px  
+
+.content
+    width: 90%

@@ -1,0 +1,40 @@
+// main: ./style.sass
+   
+.title
+    position: relative
+    
+    margin-left: -110px
+
+    font-size: 144px
+    font-weight: 100
+    text-transform: uppercase
+
+.title   
+    position: absolute 
+
+.text_blog
+    position: relative
+    width: 50%    
+
+.text_blog-animation
+    animation: text-animation 5s ease 0s 1
+
+        
+@keyframes text-animation
+    0%  
+        transform: translate(0, 100%);
+        opacity: 0
+    100%   
+        transform: translate(0, 0);
+        opacity: 1
+
+.title_a
+    color: $color-black     
+
+.text_content
+    padding-left: 60px
+
+.text
+    margin-top: 320px
+    margin-bottom: 30px
+    

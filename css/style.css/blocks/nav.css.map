@@ -1,0 +1,1 @@
+{"version":3,"file":"nav.css","sources":["blocks/nav.sass"],"sourcesContent":["// main: ./style/sass\n\n.nav {\n    padding: 30px 50px;\n\n    text-decoration: none;\n    color: inherit;\n    font-weight: 300; }\n\n\n"],"names":[],"mappings":"AAEA,AAAA,IAAI,CAAC;EACD,OAAO,EAAE,SAAS;EAElB,eAAe,EAAE,IAAI;EACrB,KAAK,EAAE,OAAO;EACd,WAAW,EAAE,GAAG,GAAG"}

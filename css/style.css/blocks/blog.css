@@ -1,0 +1,10 @@
+.blog_content {
+  display: flex; }
+
+.blog {
+  display: none; }
+
+.blog.active {
+  display: block; }
+
+/*# sourceMappingURL=blog.css.map */

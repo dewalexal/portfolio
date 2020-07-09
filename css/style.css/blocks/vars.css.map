@@ -1,0 +1,1 @@
+{"version":3,"file":"vars.css","sources":["blocks/vars.sass"],"sourcesContent":["// main: ./style/sass\n\n// Colors\n$color-pink: #DFAA99;\n$color-white: #ffffff;\n\n\n\n// Font-family\n$font-arial: Arial;\n"],"names":[],"mappings":""}

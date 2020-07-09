@@ -1,0 +1,1 @@
+{"version":3,"file":"container.css","sources":["blocks/container.sass"],"sourcesContent":["// main: ./style.sass\n\n.container {\n    margin: 0 60px; }\n"],"names":[],"mappings":"AAEA,AAAA,UAAU,CAAC;EACP,MAAM,EAAE,MAAM,GAAG"}
